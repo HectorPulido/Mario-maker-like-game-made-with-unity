@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This project has moved.** It now lives in [`AwesomeUnityProjects/mario-maker`](https://github.com/HectorPulido/AwesomeUnityProjects/tree/main/mario-maker). This repo is archived and read-only.
+
 # MARIO MAKER LIKE GAME 
 <b>This is a MARIO MAKER / LEVEL DESIGNER made with Unity and C#</b> <br/>
 [![Banner](http://img.youtube.com/vi/g-o1xTmJT-w/0.jpg)](http://www.youtube.com/watch?v=g-o1xTmJT-w)
